@@ -14,5 +14,9 @@ public class CreateTest {
 	{
       System.out.println("Create");
 }
-	
+	public void Created3() 
+
+	{
+      System.out.println("Create");
+}
 }
