@@ -4,8 +4,8 @@ import org.testng.annotations.Test;
 
 public class CreateTest {
 	@Test
-	public void Create() 
+	public void Updated() 
 	{
-      System.out.println("Created");
+      System.out.println("Updated");
 }
 }
