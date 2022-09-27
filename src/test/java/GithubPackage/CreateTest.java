@@ -5,10 +5,11 @@ import org.testng.annotations.Test;
 public class CreateTest {
 
 	@Test
-	public void Created() 
+	public void Created() {
+		System.out.println("adfda");
+	}
 
 
-	@Test
 	public void updateddd2() 
 	{
       System.out.println("Created");
