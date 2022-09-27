@@ -4,14 +4,15 @@ import org.testng.annotations.Test;
 
 public class CreateTest {
 	@Test
-	public void Create() 
+	public void Created() 
+
 	{
-      System.out.println("Created");
+      System.out.println("Create");
 }
-	@Test
-	public void Create1()
+	public void Created2() 
+
 	{
-		System.out.println("---modify---");
-	}
+      System.out.println("Create");
+}
 	
 }
