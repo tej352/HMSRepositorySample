@@ -9,7 +9,7 @@ public class CreateTest {
       System.out.println("Created");
 }
 	@Test
-	public void modify()
+	public void Create()
 	{
 		System.out.println("---modify---");
 	}
