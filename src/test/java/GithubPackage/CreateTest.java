@@ -12,7 +12,7 @@ public class CreateTest {
 
 }
 	@Test
-	public void updateddd1() 
+	public void updateddd2() 
 	{
       System.out.println("Created");
       System.out.println("modified");
