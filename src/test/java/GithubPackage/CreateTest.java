@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class CreateTest {
 	@Test
-	public void updated() 
+	public void updateddd() 
 	{
       System.out.println("Created");
       System.out.println("modified");
