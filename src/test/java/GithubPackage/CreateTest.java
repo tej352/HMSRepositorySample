@@ -9,8 +9,9 @@ public class CreateTest {
       System.out.println("Created");
 }
 	@Test
-	public void Create()
+	public void Create1()
 	{
 		System.out.println("---modify---");
 	}
+	
 }
