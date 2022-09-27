@@ -5,11 +5,16 @@ import org.testng.annotations.Test;
 public class CreateTest {
 
 	@Test
+	public void Created() 
+
+
+	@Test
 	public void updateddd2() 
 	{
       System.out.println("Created");
       System.out.println("modified");
       System.out.println("inserted");
+
 
 }
 	@Test
@@ -19,9 +24,10 @@ public class CreateTest {
       System.out.println("modified");
       System.out.println("inserted");
 }
-	@Test
-	public void modifyed()
+	public void Created2() 
+
 	{
-		System.out.println("---modi---");
+      System.out.println("Create");
+}
 	
-}}
+}
