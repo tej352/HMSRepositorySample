@@ -28,13 +28,9 @@ public class CreateTest {
 	public void Created2() {
       System.out.println("Create");
 }
-	public void Created3() 
-
-	{
-      System.out.println("Created");
+	
 	@Test
-	public void Created3() 
-
+	public void Created3()
 	{
       System.out.println("Createdyahh");
 
