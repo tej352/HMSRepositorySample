@@ -10,5 +10,11 @@ public void create()
 	System.out.println("---updated---");
 
 }
+	@Test
+	public void create1()
+	{
+		System.out.println("---updatedyahh---");
+
+	}
 	
 }

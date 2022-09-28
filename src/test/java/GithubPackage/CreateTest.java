@@ -16,7 +16,6 @@ public class CreateTest {
       System.out.println("modified");
       System.out.println("inserted");
 
-
 }
 	@Test
 	public void updateddd4() 
@@ -25,15 +24,19 @@ public class CreateTest {
       System.out.println("modified");
       System.out.println("inserted");
 }
-	public void Created2() 
-
-	{
+	@Test
+	public void Created2() {
       System.out.println("Create");
 }
 	public void Created3() 
 
 	{
       System.out.println("Created");
+	@Test
+	public void Created3() 
+
+	{
+      System.out.println("Createdyahh");
 
 }
 	
