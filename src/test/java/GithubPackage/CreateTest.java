@@ -6,15 +6,15 @@ public class CreateTest {
 
 	@Test
 	public void Created() {
-		System.out.println("heheh");
+		System.out.println("adfda");
 	}
-	@Test
+
+
 	public void updateddd2() 
 	{
       System.out.println("Created");
       System.out.println("modified");
       System.out.println("inserted");
-
 
 }
 	@Test
@@ -24,10 +24,15 @@ public class CreateTest {
       System.out.println("modified");
       System.out.println("inserted");
 }
+	@Test
 	public void Created2() 
-
 	{
       System.out.println("Create");
+}
+	@Test
+	public void Created3() {
+      System.out.println("Created");
+
 }
 	
 }
