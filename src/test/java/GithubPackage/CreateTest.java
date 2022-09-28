@@ -25,12 +25,13 @@ public class CreateTest {
       System.out.println("inserted");
 }
 	@Test
-	public void Created2() 
-	{
+	public void Created2() {
       System.out.println("Create");
 }
 	@Test
-	public void Created3() {
+	public void Created3() 
+
+	{
       System.out.println("Created");
 
 }
