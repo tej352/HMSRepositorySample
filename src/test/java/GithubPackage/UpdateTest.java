@@ -4,13 +4,13 @@ import org.testng.annotations.Test;
 
 public class UpdateTest 
 {
-	@Test
+	@Test(groups = "smoke")
 public void create()
 {
 	System.out.println("---updated---");
 
 }
-	@Test
+	@Test(groups = "smoke")
 	public void create1()
 	{
 		System.out.println("---updatedyahh---");
