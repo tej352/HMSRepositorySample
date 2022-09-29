@@ -18,13 +18,7 @@ public class CreateTest {
       System.out.println("inserted");
 
 }
-	@Test(groups = "smoke")
-	public void updateddd4() 
-	{
-      System.out.println("Created");
-      System.out.println("modified");
-      System.out.println("inserted");
-}
+
 	@Test(groups = "smoke")
 	public void Created2() {
       System.out.println("Create");
