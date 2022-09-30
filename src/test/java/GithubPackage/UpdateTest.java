@@ -7,13 +7,13 @@ public class UpdateTest
 	@Test(groups = "smoke")
 public void create()
 {
-	System.out.println("---updated---");
+	System.out.println("updated");
 
 }
 	@Test(groups = "smoke")
 	public void create1()
 	{
-		System.out.println("---updatedyahh---");
+		System.out.println("updatedyahh");
 
 	}
 	

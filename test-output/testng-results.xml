@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-29T12:56:46 IST" name="Default suite" finished-at="2022-09-29T12:56:57 IST" duration-ms="11005">
+    <groups>
+    </groups>
+    <test started-at="2022-09-29T12:56:46 IST" name="Default test" finished-at="2022-09-29T12:56:57 IST" duration-ms="11005">
+      <class name="PractisePackage.ReadParamFromCmdLineTest">
+        <test-method signature="parameters()[pri:0, instance:PractisePackage.ReadParamFromCmdLineTest@1b6e1eff]" started-at="2022-09-29T12:56:46 IST" name="parameters" finished-at="2022-09-29T12:56:57 IST" duration-ms="10959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parameters -->
+      </class> <!-- PractisePackage.ReadParamFromCmdLineTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

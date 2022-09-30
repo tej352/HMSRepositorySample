@@ -4,13 +4,12 @@ import org.testng.annotations.Test;
 
 public class CreateTest {
 
-	@Test(groups = "smoke")
+	@Test(groups = "regression")
 	public void Created() {
 		System.out.println("adfda");
 	}
 
-
-	@Test(groups = "smoke")
+	@Test(groups = "regression")
 	public void updateddd2() 
 	{
       System.out.println("Created");
@@ -19,7 +18,7 @@ public class CreateTest {
 
 }
 
-	@Test(groups = "smoke")
+	@Test(groups = "regression")
 	public void Created2() {
       System.out.println("Create");
 }
