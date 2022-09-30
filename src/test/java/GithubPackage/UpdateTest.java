@@ -11,7 +11,7 @@ public void create1()
 
 }
 	@Test(groups = "smoke")
-	public void create1()
+	public void create2()
 	{
 		System.out.println("updatedyahh");
 
