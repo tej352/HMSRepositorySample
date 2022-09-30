@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class UpdateTest 
 {
 	@Test(groups = "smoke")
-public void create()
+public void create1()
 {
 	System.out.println("updated");
 
